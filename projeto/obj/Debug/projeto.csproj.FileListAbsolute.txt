@@ -1,0 +1,12 @@
+C:\Users\etec\Desktop\projeto\projeto\bin\projeto.dll.config
+C:\Users\etec\Desktop\projeto\projeto\bin\projeto.dll
+C:\Users\etec\Desktop\projeto\projeto\bin\projeto.pdb
+C:\Users\etec\Desktop\projeto\projeto\obj\Debug\projeto.csprojResolveAssemblyReference.cache
+C:\Users\etec\Desktop\projeto\projeto\obj\Debug\projeto.dll
+C:\Users\etec\Desktop\projeto\projeto\obj\Debug\projeto.pdb
+E:\Etec\desenvolvimento de sistemas\1°MODULO\Programaçao Web I\0810\projeto\projeto\bin\projeto.dll.config
+E:\Etec\desenvolvimento de sistemas\1°MODULO\Programaçao Web I\0810\projeto\projeto\bin\projeto.dll
+E:\Etec\desenvolvimento de sistemas\1°MODULO\Programaçao Web I\0810\projeto\projeto\bin\projeto.pdb
+E:\Etec\desenvolvimento de sistemas\1°MODULO\Programaçao Web I\0810\projeto\projeto\obj\Debug\projeto.csprojResolveAssemblyReference.cache
+E:\Etec\desenvolvimento de sistemas\1°MODULO\Programaçao Web I\0810\projeto\projeto\obj\Debug\projeto.dll
+E:\Etec\desenvolvimento de sistemas\1°MODULO\Programaçao Web I\0810\projeto\projeto\obj\Debug\projeto.pdb
